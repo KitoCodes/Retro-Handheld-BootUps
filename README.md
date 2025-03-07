@@ -1,7 +1,5 @@
 # Retro-Handheld-BootUps
 
-## Created by Kito
-
 Custom boot-up screen videos for retro handheld gaming devices.
 
 ## About This Project
