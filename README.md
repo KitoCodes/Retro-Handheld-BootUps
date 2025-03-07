@@ -30,6 +30,7 @@ Working on more boot screens for additional devices. Check back for updates!
 ## Contact
 
 - GitHub: kito
+- Discord: bskito_20997
 
 ---
 
